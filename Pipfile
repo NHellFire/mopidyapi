@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 docopt = "*"
 jinja2 = "*"
-flit = "*"
+flit = "<4"
 pytest = "*"
 
 [packages]
